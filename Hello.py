@@ -1,3 +1,4 @@
 a = "Hello"
-b = "World!"
-print (a + " " + b)
+b = "World"
+c = "!"
+print (a + " " + b + c)
